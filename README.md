@@ -7,3 +7,5 @@ not accounted for:
   * Error due to Rocket falling on it's side
   * drag
   * drift
+
+  ![pictua](./graphs.png?raw=true "Titulo")
