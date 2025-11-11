@@ -224,7 +224,6 @@ function [impact_velocity, t, h, v, a, F_rocketPulse, t_impact, v_impact] = simu
 
     impact_velocity = v_impact;
     
-    % return requested arrays
     if ~returnAll
         t = [];
         h = [];
