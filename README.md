@@ -18,7 +18,7 @@ The simulation currently does **not** account for:
 
 ![Simulation Results](./graphs.png)
 
-The optimization landscape (upper left) demonstrates the **critical importance of precise timing**. Small variations in engine start time (±0.1s) can result in impact velocity changes of several m/s. This sensitivity means:
+The optimization graph for impact velocity (upper left) demonstrates the **critical importance of precise timing**. Small variations in engine start time (±0.1s) can result in impact velocity changes of several m/s. This sensitivity means:
 
 1. millisecond-level accuracy required
 2. altitude measurements must be reliable
