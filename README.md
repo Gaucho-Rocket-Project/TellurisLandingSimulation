@@ -1,4 +1,4 @@
-# TellurisLandingSimulation
+# Telluris Landing Simulation
 
 Telluris Landing Simulation using MATLAB
 
