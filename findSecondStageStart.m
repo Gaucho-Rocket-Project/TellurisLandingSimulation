@@ -1,12 +1,12 @@
 % Rocket Second Engine Optimization by Elijah H
 clear; clc; close all;
 
-h0 = 8;             % initial height (m)
+h0 = 8;              % initial height (m)
 v0 = 0;              % initial velocity (m/s)
-m = 1.5;               % mass of rocket (kg)
+m = 1.5;             % mass of rocket (kg)
 g = 9.81;            % gravity bru (m/s^2)
 dt = 0.01;           % time step (s)
-t_max = 10;           % max simulation time (s)
+t_max = 10;          % max simulation time (s)
 totalBurnTime = 3.0; % total 2nd stage engine burn time (s)
 
 % Calculate bounds for optimization
